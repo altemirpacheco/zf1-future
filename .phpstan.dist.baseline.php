@@ -23380,24 +23380,6 @@ $ignoreErrors[] = [
 	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Ini.php',
 ];
 $ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Qt::_contentElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Qt.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Qt::_endElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Qt.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Qt::_startElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Qt.php',
-];
-$ignoreErrors[] = [
 	'rawMessage' => 'PHPDoc tag @param references unknown parameter: $option',
 	'identifier' => 'parameter.notFound',
 	'count' => 1,
@@ -23426,24 +23408,6 @@ $ignoreErrors[] = [
 	'identifier' => 'property.onlyWritten',
 	'count' => 1,
 	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Qt.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Tbx::_contentElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Tbx.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Tbx::_endElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Tbx.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Tbx::_startElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Tbx.php',
 ];
 $ignoreErrors[] = [
 	'rawMessage' => 'PHPDoc tag @param references unknown parameter: $option',
@@ -23482,24 +23446,6 @@ $ignoreErrors[] = [
 	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Tmx.php',
 ];
 $ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Xliff::_contentElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Xliff.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Xliff::_endElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Xliff.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_Xliff::_startElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Xliff.php',
-];
-$ignoreErrors[] = [
 	'rawMessage' => 'PHPDoc tag @param references unknown parameter: $option',
 	'identifier' => 'parameter.notFound',
 	'count' => 1,
@@ -23516,24 +23462,6 @@ $ignoreErrors[] = [
 	'identifier' => 'property.onlyWritten',
 	'count' => 1,
 	'path' => __DIR__ . '/library/Zend/Translate/Adapter/Xliff.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_XmlTm::_contentElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/XmlTm.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_XmlTm::_endElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/XmlTm.php',
-];
-$ignoreErrors[] = [
-	'rawMessage' => 'Method Zend_Translate_Adapter_XmlTm::_startElement() is unused.',
-	'identifier' => 'method.unused',
-	'count' => 1,
-	'path' => __DIR__ . '/library/Zend/Translate/Adapter/XmlTm.php',
 ];
 $ignoreErrors[] = [
 	'rawMessage' => 'PHPDoc tag @param references unknown parameter: $option',
